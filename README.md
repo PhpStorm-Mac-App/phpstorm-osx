@@ -1,13 +1,13 @@
 # PhpStorm – Smart PHP Coding Environment  
 
 <div align="center">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" alt="PhpStorm Logo" width="600">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" alt="PhpStorm Logo" width="360">  
 </div>
 
 <br>   
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/phpstorm">  
+<a href="https://tubus-jubus-apps.github.io/.github/phpstorm">  
 <img src="https://img.shields.io/badge/💡_GET_PhpStorm-violet?style=for-the-badge&logo=apple" alt="GET PhpStorm">  
 </a>  
 </div>  
